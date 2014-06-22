@@ -1,0 +1,34 @@
+body{
+	margin:0;
+	padding:0;
+	background-color: #000;
+}
+
+#wrapper {
+	position: absolute;
+	width: 100%;
+}
+
+#cover { 
+	background: url(../images/coverpage-bg.jpg) 50% 0 no-repeat fixed; 
+	height: 807px;  
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative;
+}
+
+#section-one { background: url(../images/innerpage-bg.jpg) 50% 0 no-repeat fixed; height: 807px; margin: 0 auto; width: 100%; max-width: 1920px; position: relative; }
+#section-two { background: url(../images/innerpage-bg-two.jpg) 50% 0 no-repeat fixed; height: 807px; margin: 0 auto; width: 100%; max-width: 1920px; position: relative;}
+#section-three { background: url(../images/innerpage-bg.jpg) 50% 0 no-repeat fixed;	height: 807px; margin: 0 auto; width: 100%; max-width: 1920px; position: relative; }
+/*
+/* Cover Page */
+
+#nav { background: url("../images/coverpage-article.png") no-repeat scroll center top transparent; height: 807px; position: absolute; text-indent: -9999px; top: 0px; width: 100%; }
+#logo { background: url("../images/coverpage-logo.png") no-repeat scroll center top transparent; height: 807px; position: absolute; text-indent: -9999px; top: 0px; width: 100%; }
+
+/* Inner Pages */
+#inner-one, #inner-two, #inner-three { background: url("../images/inner-content.png") no-repeat scroll center top transparent; height: 807px; position: absolute; text-indent: -9999px; top: 0px; width: 100%; }
+*/
+
+
