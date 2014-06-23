@@ -9,16 +9,24 @@ body{
 	width: 100%;
 }
 
-#cover { 
-	background: url(../images/coverpage-bg.jpg) 50% 0 no-repeat fixed; 
-	height: 807px;  
-	margin: 0 auto; 
-    width: 100%; 
-    max-width: 1920px; 
+.page {
+	height: 807px;
+	margin: 0 auto;
+    width: 100%;
+    max-width: 1920px;
     position: relative;
 }
 
-#section-one { background: url(../images/innerpage-bg.jpg) 50% 0 no-repeat fixed; height: 807px; margin: 0 auto; width: 100%; max-width: 1920px; position: relative; }
+#cover { 
+	background: url(../images/coverpage-bg.jpg) 50% 0 no-repeat fixed;
+}
+
+#section-one { 
+	background: url(../images/innerpage-bg.jpg) 50% 0 no-repeat fixed; 
+	height: 807px; 
+	margin: 0 auto; 
+	width: 100%; 
+	max-width: 1920px; position: relative; }
 #section-two { background: url(../images/innerpage-bg-two.jpg) 50% 0 no-repeat fixed; height: 807px; margin: 0 auto; width: 100%; max-width: 1920px; position: relative;}
 #section-three { background: url(../images/innerpage-bg.jpg) 50% 0 no-repeat fixed;	height: 807px; margin: 0 auto; width: 100%; max-width: 1920px; position: relative; }
 /*
